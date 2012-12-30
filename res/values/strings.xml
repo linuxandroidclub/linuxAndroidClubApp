@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Linux/Android Club</string>
+    <string name="no_rss_feed">No Feeds</string>
+    <string name="no_rss_articles">No Articles Available</string>
+    <string name="rssreader">RSS Reader</string>
+    <string name="gridview">Grid View</string>
+    <string name="businfo">TTC Information</string>
+    <string name="submit">Submit</string>
+    <string name="no_bus_selected">No bus selected</string>
+
+</resources>
