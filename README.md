@@ -5,4 +5,3 @@ This is a read me file.
         &lt;nature&gt;org.eclipse.jdt.core.javanature&lt;/nature&gt;
     &lt;/natures&gt;
 </pre>
-file:///home/mohamed/git/linuxAndroidClubApp/res/drawable-hdpi/ic_launcher.png
