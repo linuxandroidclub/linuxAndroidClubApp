@@ -4,4 +4,4 @@ This is a read me file.
     <nature>com.android.ide.eclipse.adt.AndroidNature</nature>
     <nature>org.eclipse.jdt.core.javanature</nature>
 </natures>
-</code
+</code>
