@@ -1,19 +1,19 @@
 <h1>Linux/Android Club App</h1>
-<p>This application is made and maintained by the students in the Linux/Android club at the York campus of Seneca College.  The purpose of the application, at the point of inception, was to make it easier for the students to check for class cancelations, check timetables, have a map of the campus and check TTC arrival times around the campus.  We plan to add more features in the future.</p>
+<p>This application is made and maintained by the students in the Linux/Android club at the York campus of Seneca College.  The purpose of the application, at the point of inception, was to make it easier for the students to check for class cancellations, check timetables, have a map of the campus and check TTC arrival times around the campus.  We plan to add more features in the future.</p>
 <h2>Feature list</h2>
 <ul>
-	<li>RSS reader for checking class cancelations <strong>(done)</strong></li>
+	<li>RSS reader for checking class cancellations <strong>(done)</strong></li>
 	<li>TTC time arrivals <strong>(done)</strong></li>
 	<li>Timetable entry <strong>(in progress)</strong></li>
 	<li>Campus map <strong>(in progress)</strong></li>
 </ul>
 <h1>Tutorial for importing project into Eclipse</h1>
-<p><strong>Disclamer:</strong> This tutorial was written based on the setup under Ubuntu 12.10, although if you are using a different operating system, the steps should be the same, but there are no garuntees. Also, if you are reading this from the <em>future</em>, the steps may have changed significantly. This tutorial was written on the 10th of January 2013.  And if the tutorial is updated by someone, they might forget to change the date.  Just saying.</p>
+<p><strong>Disclaimer:</strong> This tutorial was written based on the setup under Ubuntu 12.10, although if you are using a different operating system, the steps should be the same, but there are no guarantees. Also, if you are reading this from the <em>future</em>, the steps may have changed significantly. This tutorial was written on the 10th of January 2013.  And if the tutorial is updated by someone, they might forget to change the date.  Just saying.</p>
 <h2>Assumptions made:</h2>
 <ul>
 	<li>You already have Java configured in your environment</li>
-	<li>You already have Eclipse setup with the appropriate Android pulgin and SDKs</li>
-	<li>You already have the EGit Github plugin for Eclipse</li>
+	<li>You already have Eclipse setup with the appropriate Android plug-in and SDKs</li>
+	<li>You already have the EGit Github plug-in for Eclipse</li>
 	<li>You already have a <em>git</em> directory in your <em>Home</em> directory</li>
 </ul>
 <h2>The Tutorial:</h2>
@@ -35,7 +35,7 @@
 	<li>Navigate to the <strong>Directory</strong> where you <strong>saved</strong> your project</li>
 	<li>Change the <strong>setting</strong> so you can see the <strong>hidden files</strong> in the directory</li>
 	<li>Edit the <em>.project</em> file to include the lines below:</li>
-	(Do not delete or add anything eles in the file. Just change the tags shown below)
+	(Do not delete or add anything else in the file. Just change the tags shown below)
 	<pre>
 		&lt;buildSpec&gt;
 			&lt;buildCommand&gt;
@@ -73,7 +73,7 @@
 	<li>Select <strong>Android Classpath Container</strong> and click <strong>next</strong></li>
 	<li>Make sure the project is <strong>selected</strong> in the <strong>Projects List</strong> and click <strong>finish</strong></li>
 	<li>Click <strong>OK</strong> when you get back to the <strong>previous screen</strong></li>
-	<li>Now the directories and packages should be organized like an anroid project</li>
+	<li>Now the directories and packages should be organized like an Android project</li>
 	<li><strong>Right click</strong> on the <strong>project</strong></li>
 	<li>Expand the <strong>Android Tools</strong> option and click <strong>Fix Project Properties</strong> to load Android Dependencies</li>
 	<li>Done</li>
